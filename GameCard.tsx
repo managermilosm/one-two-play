@@ -16,7 +16,12 @@ import { MdPhoneIphone } from "react-icons/md";
 import { SiNintendo, SiNintendoswitch } from "react-icons/si";
 import { BsGlobe } from "react-icons/bs";
 import PlatformIconList from "./PlatformIconList";
+
 import RatingSquare from "./RatingSquare";
+import RatingSquare from "./RatingSquare";
+import RatingSquare from "./RatingSquare";
+import RatingSquare from "./RatingSquare";
+
 
 const GameCard = ({ game }: Props) => {
   return (
